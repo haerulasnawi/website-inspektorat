@@ -20,7 +20,7 @@
 				<div class="mb-6 lg:mb-0">
 					<a href="https://flowbite.com/" class="flex items-center">
 						<img src={LogoKota} class="mr-3 h-24" alt="FlowBite Logo" />
-						<div class="flex flex-col text-2xl font-semibold">
+						<div class="flex flex-col text-2xl font-bold">
 							<Span uppercase gradient>Inspektorat</Span>
 							<span class="self-center whitespace-nowrap dark:text-white">Kota Mataram</span>
 						</div>
@@ -81,13 +81,15 @@
 						</FooterLinkGroup>
 					</div>
 					<div class="text-gray-600 dark:text-gray-400">
-						<h2 class="mb-6 text-sm font-bold uppercase text-gray-900 dark:text-white">Survey Layanan</h2>
+						<h2 class="mb-6 text-sm font-bold uppercase text-gray-900 dark:text-white">
+							Survey Layanan
+						</h2>
 						<p>Survey kepuasan dalam pengawasan dan pembinaan APIP lingkup Kota Mataram</p>
-						<button
+						<a href="/survey/publik"
 							type="button"
 							class="mt-3 text-white bg-gradient-to-r to-emerald-600 from-sky-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2"
-							>Isi Survey</button
-						>
+							>Isi Survey</a
+						>						
 					</div>
 				</div>
 			</div>
@@ -104,7 +106,10 @@
 							/></svg
 						>
 					</FooterIcon>
-					<FooterIcon href="https://www.instagram.com/inspektorat_kota/" class="text-gray-400 hover:text-gray-900">
+					<FooterIcon
+						href="https://www.instagram.com/inspektorat_kota/"
+						class="text-gray-400 hover:text-gray-900"
+					>
 						<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"
 							><path
 								fill-rule="evenodd"
@@ -113,8 +118,11 @@
 							/></svg
 						>
 					</FooterIcon>
-					<FooterIcon href="https://youtube.com/channel/UCvr1QMcRJ-P_tvvw-EvXx6Q" class="text-gray-400 hover:text-gray-900">
-						<svg class="w-5 h-5" viewBox="0 0 576 512"  fill="currentColor" 
+					<FooterIcon
+						href="https://youtube.com/channel/UCvr1QMcRJ-P_tvvw-EvXx6Q"
+						class="text-gray-400 hover:text-gray-900"
+					>
+						<svg class="w-5 h-5" viewBox="0 0 576 512" fill="currentColor"
 							><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path
 								d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"
 							/></svg

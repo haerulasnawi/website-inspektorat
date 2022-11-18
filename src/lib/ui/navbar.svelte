@@ -71,7 +71,7 @@
 
 	<div class="flex items-right md:order-2">
 		<DarkMode {btnClass} />
-		<Button href="/auth/login" size="sm">Log in</Button>
+		<Button gradient color="greenToBlue" href="/auth/login" size="sm">Log in</Button>
 		<Avatar id="avatar-menu" src="https://placeimg.com/80/80/people" />
 		<NavHamburger on:click={toggle} />
 	</div>
@@ -93,7 +93,7 @@
 				href="/"
 				class="block py-2 pr-4 pl-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white"
 				aria-current="page"
-				data-sveltekit-noscroll="">Beranda</a
+				data-sveltekit-noscroll>Beranda</a
 			>
 		</li>
 		<li>
@@ -101,23 +101,39 @@
 				href="/profile"
 				class="block py-2 pr-4 pl-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white"
 				aria-current="page"
-				data-sveltekit-noscroll="">Profile</a
+				data-sveltekit-noscroll>Profile</a
 			>
 		</li>
-		<li>
+		<!-- <li>
 			<a
 				href="/pelayanan"
 				class="block py-2 pr-4 pl-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white"
 				aria-current="page"
-				data-sveltekit-noscroll="">Galeri</a
+				data-sveltekit-noscroll>Galeri</a
 			>
-		</li>
+		</li> -->
 		<li>
 			<a
 				href="/berita"
 				class="block py-2 pr-4 pl-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white"
 				aria-current="page"
-				data-sveltekit-noscroll="">Berita</a
+				data-sveltekit-noscroll>Berita</a
+			>
+		</li>
+		<li>
+			<a
+				href="/sapa-inspektur"
+				class="block py-2 pr-4 pl-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white gradient"
+				aria-current="page"
+				data-sveltekit-noscroll>SAPA Inspektur</a
+			>
+		</li>
+		<li>
+			<a
+				href="/wbs"
+				class="block py-2 pr-4 pl-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white gradient"
+				aria-current="page"
+				data-sveltekit-noscroll>WBS</a
 			>
 		</li>
 	</NavUl>

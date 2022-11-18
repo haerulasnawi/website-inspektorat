@@ -6,15 +6,15 @@ module.exports = {
 	],
 	theme: {
 		extend: {
-			animation:{
-				'slideTop':'slideTop 0.5s linear both'
+			animation: {
+				slideTop: 'slideTop 0.8s linear both'
 			},
-			keyframes:{
-				slideTop:{
-					'0%':{
-						transform:'translateY(+100px)'
+			keyframes: {
+				slideTop: {
+					'0%': {
+						transform: 'translateY(0)'
 					},
-					'100%':{transform:'translateY(0px)'}
+					to: { transform: 'translateY(-100px)' }
 				}
 			}
 		}
