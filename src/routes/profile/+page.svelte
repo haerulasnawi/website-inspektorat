@@ -2,6 +2,7 @@
 	import { Heading, P, Span, Hr, Img, A, Button } from 'flowbite-svelte';
 	import FormasiList from '../../lib/ui/formasiList.svelte';
 	import logoKota from '$lib/assets/kota.png';
+	import Inspektur from '$lib/assets/nelly.png'
 	import Saos from 'saos';
 	import Componentanimate from '../../lib/componentanimate.svelte';
 </script>
@@ -19,13 +20,17 @@
 				>
 			</div>
 			<div class="flex justify-center">
-				<Img
-					src="https://purepng.com/public/uploads/large/purepng.com-soldiersoldiersweapon-holderfighterwar-fighterwarriorarmy-1421526972108femkx.png"
-					alt="sample 1"
-					size="max-w-lg"
-					class="rounded-lg"
-					imgClass="h-64 md:h-96 lg:h-screen"
-				/>
+				<div class="flex flex-col text-center">
+					<Img
+						src="{Inspektur}"
+						alt="sample 1"
+						size="max-w-lg"
+						class="rounded-lg w-3/4"
+						imgClass=""
+					/>
+					<Heading tag="h6" align="center" class="mt-5">B. Nelly Kusumawati M., M.Ak., CGCAE</Heading>
+					<P align="center" space="wider" >Inspektur Kota Mataram</P>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -117,7 +122,7 @@
 				<Componentanimate animate="slide-right .5s cubic-bezier(.25,.46,.45,.94) both">
 					<div class="md:mb-20">
 						<a
-							href="/struktur"
+							href="#"
 							target="blank"
 							type="button"
 							class="text-white bg-gradient-to-r to-emerald-600 from-sky-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center"
@@ -141,16 +146,16 @@
 			</div>
 			<div class="mb-10 md:mb-0">
 				<Componentanimate animate="slide-top 1s cubic-bezier(.25,.46,.45,.94) both">
-					<FormasiList nomor="01" formasi="Struktural" jumlah="23" color="gray" darkColor="gray" />
+					<FormasiList nomor="01" formasi="Struktural" jumlah="8" color="gray" darkColor="gray" />
 				</Componentanimate>
 				<Componentanimate animate="slide-top 1s cubic-bezier(.25,.46,.45,.94) both">
 					<FormasiList nomor="02" formasi="Auditor" jumlah="23" color="indigo" darkColor="indigo" />
 				</Componentanimate>
 				<Componentanimate animate="slide-top 1s cubic-bezier(.25,.46,.45,.94) both">
-					<FormasiList nomor="03" formasi="P2UPD" jumlah="23" color="yellow" darkColor="yellow" />
+					<FormasiList nomor="03" formasi="P2UPD" jumlah="9" color="yellow" darkColor="yellow" />
 				</Componentanimate>
 				<Componentanimate animate="slide-top 1s cubic-bezier(.25,.46,.45,.94) both">
-					<FormasiList nomor="04" formasi="JFT" jumlah="23" color="green" darkColor="green" />
+					<FormasiList nomor="04" formasi="Pelaksana" jumlah="25" color="green" darkColor="green" />
 				</Componentanimate>
 			</div>
 		</div>

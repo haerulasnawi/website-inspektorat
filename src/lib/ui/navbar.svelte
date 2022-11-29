@@ -35,7 +35,7 @@
 <Navbar
 	let:hidden
 	let:toggle
-	navClass="px-2 sm:px-4 py-2.5 absolute w-full z-50 top-0 left-0 sticky z-50 drop-shadow-lg"
+	navClass="px-2 sm:px-4 py-2.5 w-full z-50 top-0 left-0 sticky z-50 drop-shadow-lg"
 >
 	<div class="flex">
 		<!-- <button
@@ -62,30 +62,35 @@
 		</button> -->
 
 		<NavBrand href="/">
-			<img src={NavLogo} class="mr-3 h-14 md:h-16" alt="Flowbite Logo" />
-			<span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white"
-				>Inspektorat</span
-			>
+			<div class="grid grid-row text-center">
+				<!-- <img src={NavLogo} class="mr-3 h-14 md:h-16" alt="Flowbite Logo" /> -->
+				<span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white"
+					>Inspektorat
+				</span>
+				<span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
+					Kota Mataram</span
+				>
+			</div>
 		</NavBrand>
 	</div>
 
-	<div class="flex items-right md:order-2">
+	<div class="flex justify-end md:order-2">
 		<DarkMode {btnClass} />
 		<Button gradient color="greenToBlue" href="/auth/login" size="sm">Log in</Button>
 		<Avatar id="avatar-menu" src="https://placeimg.com/80/80/people" />
 		<NavHamburger on:click={toggle} />
+		<Dropdown placement="bottom" triggeredBy="#avatar-menu">
+			<DropdownHeader>
+				<span class="block text-sm"> Bonnie Green </span>
+				<span class="block truncate text-sm font-medium"> name@flowbite.com </span>
+			</DropdownHeader>
+			<DropdownItem>Dashboard</DropdownItem>
+			<DropdownItem>Settings</DropdownItem>
+			<DropdownItem>Earnings</DropdownItem>
+			<DropdownDivider />
+			<DropdownItem>Sign out</DropdownItem>
+		</Dropdown>
 	</div>
-	<Dropdown placement="bottom" triggeredBy="#avatar-menu">
-		<DropdownHeader>
-			<span class="block text-sm"> Bonnie Green </span>
-			<span class="block truncate text-sm font-medium"> name@flowbite.com </span>
-		</DropdownHeader>
-		<DropdownItem>Dashboard</DropdownItem>
-		<DropdownItem>Settings</DropdownItem>
-		<DropdownItem>Earnings</DropdownItem>
-		<DropdownDivider />
-		<DropdownItem>Sign out</DropdownItem>
-	</Dropdown>
 
 	<NavUl {hidden}>
 		<li>
@@ -112,14 +117,14 @@
 				data-sveltekit-noscroll>Galeri</a
 			>
 		</li> -->
-		<li>
+		<!-- <li>
 			<a
 				href="/berita"
 				class="block py-2 pr-4 pl-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white"
 				aria-current="page"
 				data-sveltekit-noscroll>Berita</a
 			>
-		</li>
+		</li> -->
 		<li>
 			<a
 				href="/sapa-inspektur"
@@ -128,19 +133,18 @@
 				data-sveltekit-noscroll>SAPA Inspektur</a
 			>
 		</li>
-		<li>
+		<!-- <li>
 			<a
 				href="/wbs"
 				class="block py-2 pr-4 pl-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white gradient"
 				aria-current="page"
 				data-sveltekit-noscroll>WBS</a
 			>
-		</li>
+		</li> -->
 	</NavUl>
 </Navbar>
-<!-- </div> -->
 
-<!-- <Drawer transitionType="fly" {transitionParams} bind:hidden={hidden2} id="sidebar2">
+<Drawer transitionType="fly" {transitionParams} bind:hidden={hidden2} id="sidebar2">
 	<div class="flex items-center">
 		<img
 			src="{NavLogo}"
@@ -152,4 +156,4 @@
 		<CloseButton on:click={() => (hidden2 = true)} class="mb-4 dark:text-white" />
 	</div>
 	<Sidebar on:changeRoute={handleChangeroute} />
-</Drawer> -->
+</Drawer>

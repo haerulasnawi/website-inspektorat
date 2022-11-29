@@ -1,11 +1,13 @@
 <script>
 	export let title;
 	export let url;
+	// export let CoachingImage
+	export let penjelasan
 </script>
 
 <div class="mx-auto max-w-md p-6 ">
 	<div class="inline-flex items-center">
-		<svg
+		<!-- <svg
 			class="w-10 h-10 mb-2 text-gray-500 gap-1 dark:text-gray-400"
 			aria-hidden="true"
 			fill="currentColor"
@@ -16,15 +18,15 @@
 				d="M5 5a3 3 0 015-2.236A3 3 0 0114.83 6H16a2 2 0 110 4h-5V9a1 1 0 10-2 0v1H4a2 2 0 110-4h1.17C5.06 5.687 5 5.35 5 5zm4 1V5a1 1 0 10-1 1h1zm3 0a1 1 0 10-1-1v1h1z"
 				clip-rule="evenodd"
 			/><path d="M9 11H3v5a2 2 0 002 2h4v-7zM11 18h4a2 2 0 002-2v-5h-6v7z" /></svg
-		>
-		<a href="#">
-			<h5 class="ml-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
+		> -->
+		<!-- <a href="#"> -->
+			<h5 class=" text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
 				{title}
 			</h5>
-		</a>
+		<!-- </a> -->
 	</div>
 	<p class="mb-3 font-normal text-gray-500 dark:text-gray-400">
-		Go to this step by step guideline process on how to certify for your weekly benefits:
+		{penjelasan}
 	</p>
 	<a href="{url}"
 		type="button"
@@ -43,9 +45,10 @@
 			/></svg
 		>
 </a>
-	<img
+	<!-- <img
 		class="max-w-full h-auto"
-		src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+		src="{CoachingImage}"
 		alt="image description"
-	/>
+	/> -->
+	
 </div>

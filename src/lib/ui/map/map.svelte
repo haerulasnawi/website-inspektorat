@@ -16,11 +16,11 @@
 	import setda from '$lib/assets/setda.png';
 	import Componentanimate from '../../componentanimate.svelte';
 	let selected;
-	let countries = [
-		{ value: 'us', name: 'United States' },
-		{ value: 'ca', name: 'Canada' },
-		{ value: 'fr', name: 'France' }
-	];
+	// export let countries = [
+	// 	{ value: 'us', name: 'United States' },
+	// 	{ value: 'ca', name: 'Canada' },
+	// 	{ value: 'fr', name: 'France' }
+	// ];
 
 	const center = { lat: -8.6201050994578, lng: 116.079964153476 };
 	const beaches = [
@@ -31,7 +31,7 @@
 	let mapElement;
 	onMount(async () => {
 		const map = new google.maps.Map(mapElement, {
-			zoom: 16,
+			zoom: 13,
 			center: center
 		});
 
@@ -50,9 +50,9 @@
 	});
 </script>
 
-<div class="h-screen relative">
+<!-- <div class="h-screen relative"> -->
 	<div class="h-screen w-full right" bind:this={mapElement} />
-	<div
+	<!-- <div
 		class="absolute z-10  top-10 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-60 md:w-96"
 	>
 	<Componentanimate animate="slide-bottom 1s cubic-bezier(.25,.46,.45,.94) both">
@@ -67,9 +67,6 @@
 			</Label>
 			<Label>
 				<Select class="mt-2" items={countries} bind:value={selected} placeholder="Obrik Kategori" />
-			</Label>
-			<Label>
-				<Select class="mt-2" items={countries} bind:value={selected} placeholder="Pilih Obrik" />
 			</Label>
 
 			<button
@@ -92,5 +89,5 @@
 			</button>
 		</Dropdown>
 	</Componentanimate>
-	</div>
-</div>
+	</div> -->
+<!-- </div> -->
