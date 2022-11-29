@@ -122,7 +122,7 @@
 				<Componentanimate animate="slide-right .5s cubic-bezier(.25,.46,.45,.94) both">
 					<div class="md:mb-20">
 						<a
-							href="#"
+							href="/"
 							target="blank"
 							type="button"
 							class="text-white bg-gradient-to-r to-emerald-600 from-sky-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center"
