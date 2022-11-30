@@ -1,0 +1,2305 @@
+[
+  {
+    "id": 1,
+    "name": "Badan Keuangan Daerah Kota Mataram",
+    "latitude": "-85.820.774.464.466",
+    "longitude": "11.610.873.419.791",
+    "category": "Badan"
+  },
+  {
+    "id": 2,
+    "name": "Badan Penelitian dan Pengembangan Kota Mataram",
+    "latitude": "-85.834.466.301.532",
+    "longitude": "11.610.771.529.377",
+    "category": "Badan"
+  },
+  {
+    "id": 3,
+    "name": "Bagian Administrasi Pembangunan SETDA",
+    "latitude": "-85.834.217.660.863",
+    "longitude": "11.610.801.704.228",
+    "category": "Bagian"
+  },
+  {
+    "id": 4,
+    "name": "Bagian Hukum Setda Kota Mataram",
+    "latitude": "-85.831.296.960.589",
+    "longitude": "11.610.822.994.262",
+    "category": "Bagian"
+  },
+  {
+    "id": 5,
+    "name": "BAGIAN KESRA SETDA KOTA MATARAM",
+    "latitude": "-85.830.249.353.587",
+    "longitude": "11.610.815.484.077",
+    "category": "Bagian"
+  },
+  {
+    "id": 6,
+    "name": "Bagian Organisasi Setda Kota Mataram",
+    "latitude": "-85.831.860.546.515",
+    "longitude": "11.610.819.742.084",
+    "category": "Bagian"
+  },
+  {
+    "id": 7,
+    "name": "Bagian Perekonomian dan SDA",
+    "latitude": "-85.831.200.819.452",
+    "longitude": "11.610.817.328.095",
+    "category": "Bagian"
+  },
+  {
+    "id": 8,
+    "name": "Bagian Prokopim",
+    "latitude": "-85.831.790.927.082",
+    "longitude": "1.161.078.524.217",
+    "category": "Bagian"
+  },
+  {
+    "id": 9,
+    "name": "Bagian Umum Setda Kota Mataram",
+    "latitude": "-85.830.222.831.887",
+    "longitude": "11.610.786.583.275",
+    "category": "Bagian"
+  },
+  {
+    "id": 10,
+    "name": "BKPSDM KOTA MATARAM",
+    "latitude": "-8.582.250.500.931",
+    "longitude": "1.161.047.514.528",
+    "category": "Badan"
+  },
+  {
+    "id": 11,
+    "name": "BPBD KOTA MATARAM",
+    "latitude": "-86.203.726.108.222",
+    "longitude": "11.608.901.157.975",
+    "category": "Badan"
+  },
+  {
+    "id": 12,
+    "name": "Dinas DP2KB Kota Mataram",
+    "latitude": "-8.619.959.575.848",
+    "longitude": "11.607.953.064.144",
+    "category": "Dinas"
+  },
+  {
+    "id": 13,
+    "name": "Dinas DP2KB Kota Mataram",
+    "latitude": "-86.199.887.468.722",
+    "longitude": "11.607.962.585.986",
+    "category": "Dinas"
+  },
+  {
+    "id": 14,
+    "name": "Dinas DP2KB Kota Mataram",
+    "latitude": "-86.200.079.732.279",
+    "longitude": "11.607.983.004.302",
+    "category": "Dinas"
+  },
+  {
+    "id": 15,
+    "name": "Dinas Kearsipan dan Perpustakaan Kota Mataram",
+    "latitude": "-85.813.931.842.642",
+    "longitude": "11.609.860.349.447",
+    "category": "Dinas"
+  },
+  {
+    "id": 16,
+    "name": "Dinas Kepemudaan dan Olahraga Kota Mataram",
+    "latitude": "-86.178.880.958.829",
+    "longitude": "11.611.953.344.196",
+    "category": "Dinas"
+  },
+  {
+    "id": 17,
+    "name": "dinas kesehatan kota mataram",
+    "latitude": "-86.199.923.932.501",
+    "longitude": "11.608.924.694.359",
+    "category": "Dinas"
+  },
+  {
+    "id": 18,
+    "name": "dinas Ketahanan Pangan kota Mataram",
+    "latitude": "-86.201.233.313.412",
+    "longitude": "11.608.068.399.131",
+    "category": "Dinas"
+  },
+  {
+    "id": 19,
+    "name": "Dinas Komunikasi & Informatika Kota Mataram",
+    "latitude": "-85.833.783.368.456",
+    "longitude": "1.161.078.145.355",
+    "category": "Dinas"
+  },
+  {
+    "id": 20,
+    "name": "Dinas Lingkungan Hidup Kota Mataram",
+    "latitude": "-85.935.585.453.175",
+    "longitude": "11.615.205.086.768",
+    "category": "Dinas"
+  },
+  {
+    "id": 21,
+    "name": "Dinas Pariwisata",
+    "latitude": "-85.857.109.110.147",
+    "longitude": "11.608.892.373.741",
+    "category": "Dinas"
+  },
+  {
+    "id": 22,
+    "name": "Dinas Pemadam Kebakaran",
+    "latitude": "-86.211.711.659.249",
+    "longitude": "1.160.896.583.274",
+    "category": "Dinas"
+  },
+  {
+    "id": 23,
+    "name": "Dinas Pemadam Kebakaran",
+    "latitude": "-85.881.018.178.103",
+    "longitude": "11.611.781.012.267",
+    "category": "Dinas"
+  },
+  {
+    "id": 24,
+    "name": "Dinas Pemberdayaan Perempuan dan Perlindungan Anak",
+    "latitude": "-85.831.098.047.889",
+    "longitude": "11.610.789.868.981",
+    "category": "Dinas"
+  },
+  {
+    "id": 25,
+    "name": "Dinas Penanaman Modal Dan Pelayanan Terpadu Satu Pintu Kota Mataram",
+    "latitude": "-8.583.396.238.976",
+    "longitude": "11.610.772.904.009",
+    "category": "Dinas"
+  },
+  {
+    "id": 26,
+    "name": "Dinas Pendidikan",
+    "latitude": "-85.855.842.707.727",
+    "longitude": "11.608.887.780.458",
+    "category": "Dinas"
+  },
+  {
+    "id": 27,
+    "name": "dinas pengendalian penduduk dan kb kota mataram",
+    "latitude": "-862.003.084.596",
+    "longitude": "11.607.970.196.754",
+    "category": "Dinas"
+  },
+  {
+    "id": 28,
+    "name": "Dinas Pengendalian Penduduk dan Keluarga Berencana Kota Mataram",
+    "latitude": "-86.201.163.700.767",
+    "longitude": "11.607.960.809.022",
+    "category": "Dinas"
+  },
+  {
+    "id": 29,
+    "name": "Dinas Perdagangan",
+    "latitude": "-8.620.648.077.717",
+    "longitude": "11.608.980.216.086",
+    "category": "Dinas"
+  },
+  {
+    "id": 30,
+    "name": "Dinas perhubungan",
+    "latitude": "-85.662.436.221.045",
+    "longitude": "11.613.495.279.104",
+    "category": "Dinas"
+  },
+  {
+    "id": 31,
+    "name": "Dinas Perhubungan",
+    "latitude": "-85.661.968.755.411",
+    "longitude": "11.613.509.897.143",
+    "category": "Dinas"
+  },
+  {
+    "id": 32,
+    "name": "Dinas Pertanian",
+    "latitude": "-85.803.018.100.532",
+    "longitude": "1.161.214.414.984",
+    "category": "Dinas"
+  },
+  {
+    "id": 33,
+    "name": "Dinas Pertanian",
+    "latitude": "-85.802.895.436.788",
+    "longitude": "11.612.144.786.865",
+    "category": "Dinas"
+  },
+  {
+    "id": 34,
+    "name": "Dinas Perumahan dan Kawasan Permukiman",
+    "latitude": "-85.931.663.663.664",
+    "longitude": "1.161.521.923.542",
+    "category": "Dinas"
+  },
+  {
+    "id": 35,
+    "name": "Dinas Perumahan Dan Kawasan Permukiman Kota Mataram",
+    "latitude": "-85.931.965.339.924",
+    "longitude": "11.615.219.168.365",
+    "category": "Dinas"
+  },
+  {
+    "id": 36,
+    "name": "Dinas PUPR Kota Mataram Jl. Semanggi No 19",
+    "latitude": "-85.776.704.979.116",
+    "longitude": "11.610.380.161.554",
+    "category": "Dinas"
+  },
+  {
+    "id": 37,
+    "name": "Dinas Sosial Kota Mataram Jl. R. A. Kartini No. 3 Mataram",
+    "latitude": "-85.776.502.748.297",
+    "longitude": "11.611.070.998.013",
+    "category": "Dinas"
+  },
+  {
+    "id": 38,
+    "name": "Dinas Tenaga Kerja Kota Mataram",
+    "latitude": "-86.110.281.642.667",
+    "longitude": "11.609.958.920.628",
+    "category": "Dinas"
+  },
+  {
+    "id": 39,
+    "name": "DLH Mataram",
+    "latitude": "-85.935.853.977.921",
+    "longitude": "11.615.200.158.209",
+    "category": "Dinas"
+  },
+  {
+    "id": 40,
+    "name": "DP2KB Kota Mataram",
+    "latitude": "-86.201.763.695.424",
+    "longitude": "1.160.798.035.562",
+    "category": "Dinas"
+  },
+  {
+    "id": 41,
+    "name": "DPPKB kota Mataram",
+    "latitude": "-86.200.772.543.978",
+    "longitude": "11.607.989.542.186",
+    "category": "Dinas"
+  },
+  {
+    "id": 42,
+    "name": "Inspektorat Kota Mataram",
+    "latitude": "-86.201.050.994.578",
+    "longitude": "11.607.996.415.347",
+    "category": "Inspektorat"
+  },
+  {
+    "id": 43,
+    "name": "Instalasi Farmasi Kesehatan Kota Mataram",
+    "latitude": "-86.201.316.185.606",
+    "longitude": "11.608.924.493.194",
+    "category": "Kantor"
+  },
+  {
+    "id": 44,
+    "name": "Kantor BKPSDM Kota Mataram",
+    "latitude": "-85.820.724.736.154",
+    "longitude": "1.161.047.809.571",
+    "category": "Badan"
+  },
+  {
+    "id": 45,
+    "name": "Kantor Camat Ampenan",
+    "latitude": "-85.794.922.284.935",
+    "longitude": "11.608.266.480.267",
+    "category": "Camat"
+  },
+  {
+    "id": 46,
+    "name": "Kantor Camat Sekarbela",
+    "latitude": "-86.112.648.528.748",
+    "longitude": "11.607.621.073.723",
+    "category": "Camat"
+  },
+  {
+    "id": 47,
+    "name": "Dinas Kependudukan dan Pencatatan Sipil Kota Mataram",
+    "latitude": "-86.202.141.592.562",
+    "longitude": "1.160.898.745.805",
+    "category": "Dinas"
+  },
+  {
+    "id": 48,
+    "name": "Kantor Dinas Perikanan Kota Mataram",
+    "latitude": "-85.668.387.285.619",
+    "longitude": "11.613.412.197.679",
+    "category": "Dinas"
+  },
+  {
+    "id": 49,
+    "name": "Kantor Dinas Pertanian Kota Mataram",
+    "latitude": "-85.801.609.124.856",
+    "longitude": "11.612.141.165.882",
+    "category": "Dinas"
+  },
+  {
+    "id": 50,
+    "name": "Kantor Kecamatan Selaparang",
+    "latitude": "-85.640.044.221.115",
+    "longitude": "11.611.789.595.336",
+    "category": "Kecamatan"
+  },
+  {
+    "id": 51,
+    "name": "kantor kelurahan Cakranegara barat",
+    "latitude": "-85.866.272.281.562",
+    "longitude": "116.123.858.504",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 52,
+    "name": "Kantor Lurah Banjar",
+    "latitude": "-85.734.789.925.365",
+    "longitude": "11.607.605.785.131",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 53,
+    "name": "Kantor Lurah Bintaro",
+    "latitude": "-85.649.184.708.431",
+    "longitude": "1.160.753.698.647",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 54,
+    "name": "kantor lurah cajranegara selatan",
+    "latitude": "-85.958.270.754.488",
+    "longitude": "11.613.068.439.066",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 55,
+    "name": "Kantor Lurah Cilinaya no 11 Cakranegara",
+    "latitude": "-85.906.110.602.765",
+    "longitude": "1.161.234.216.392",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 56,
+    "name": "Kantor Lurah Karang Pule",
+    "latitude": "-85.997.736.821.683",
+    "longitude": "11.609.158.717.096",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 57,
+    "name": "Kantor Lurah Karang Taliwang",
+    "latitude": "-85.776.744.762.226",
+    "longitude": "11.612.713.649.869",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 58,
+    "name": "KANTOR LURAH KEKALIK JAYA",
+    "latitude": "-85.897.862.510.026",
+    "longitude": "11.608.719.740.063",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 59,
+    "name": "kantor Lurah Mayura",
+    "latitude": "-85.863.971.545.233",
+    "longitude": "11.613.686.319.441",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 60,
+    "name": "kantor lurah monjok",
+    "latitude": "-85.742.736.681.114",
+    "longitude": "11.611.787.348.986",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 61,
+    "name": "Kantor Lurah Monjok Barat",
+    "latitude": "-85.756.743.750.806",
+    "longitude": "11.610.660.284.758",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 62,
+    "name": "Kantor Lurah Pagutan Timur",
+    "latitude": "-86.106.181.025.602",
+    "longitude": "11.611.756.201.833",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 63,
+    "name": "KANTOR LURAH PEJARAKAN KARYA",
+    "latitude": "-85.711.861.270.378",
+    "longitude": "11.609.658.781.439",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 64,
+    "name": "Kantor Lurah Rembiga",
+    "latitude": "-85.623.301.523.273",
+    "longitude": "11.610.905.338.079",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 65,
+    "name": "Kantor Lurah Sapta Marga",
+    "latitude": "-85.962.759.398.048",
+    "longitude": "11.612.473.122.776",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 66,
+    "name": "Kantor Lurah Sayang Sayang Jl.P. diponogoro no. 4 Kel. Sayang Sayang",
+    "latitude": "-85.704.173.045.241",
+    "longitude": "11.613.188.400.865",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 67,
+    "name": "Kantor Lurah Taman Sari",
+    "latitude": "-85.821.076.149.543",
+    "longitude": "11.607.928.019.017",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 68,
+    "name": "kantor lurah Tanjung karang permai",
+    "latitude": "-85.963.259.977.614",
+    "longitude": "11.608.367.431.909",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 69,
+    "name": "kantor UPTD Sekarbela",
+    "latitude": "-86.187.038.937.163",
+    "longitude": "11.608.343.861.997",
+    "category": "UPTD"
+  },
+  {
+    "id": 70,
+    "name": "KECAMATAN CAKRANEGARA",
+    "latitude": "-85.664.604.465.149",
+    "longitude": "11.613.569.844.514",
+    "category": "Kecamatan"
+  },
+  {
+    "id": 71,
+    "name": "Kecamatan Mataram",
+    "latitude": "-85.939.112.739.685",
+    "longitude": "11.611.200.984.567",
+    "category": "Kecamatan"
+  },
+  {
+    "id": 72,
+    "name": "Kecamatan Sandubaya",
+    "latitude": "-85.931.441.550.358",
+    "longitude": "11.615.170.352.161",
+    "category": "Kecamatan"
+  },
+  {
+    "id": 73,
+    "name": "Kel.Ds.Agung Baru",
+    "latitude": "-85.778.332.771.052",
+    "longitude": "1.160.922.171.548",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 74,
+    "name": "Kelurahan Abiantubuh Baru",
+    "latitude": "-86.056.373.256.619",
+    "longitude": "11.612.836.528.569",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 75,
+    "name": "Kelurahan Ampenan Tengah",
+    "latitude": "-85.711.751.864.955",
+    "longitude": "11.607.588.753.104",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 76,
+    "name": "Kelurahan Babakan",
+    "latitude": "-86.017.259.195.519",
+    "longitude": "1.161.355.529.353",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 77,
+    "name": "Kelurahan Cakranegara Timur",
+    "latitude": "-85.878.349.466.812",
+    "longitude": "11.613.681.223.243",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 78,
+    "name": "Kelurahan Dasan Agung",
+    "latitude": "-85.788.006.681.041",
+    "longitude": "11.610.019.605.607",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 79,
+    "name": "Kelurahan Dasan Cermen",
+    "latitude": "-8.611.578.779.974",
+    "longitude": "11.612.924.873.829",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 80,
+    "name": "Kelurahan Dayan Peken",
+    "latitude": "-85.697.525.817.788",
+    "longitude": "11.607.665.464.282",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 81,
+    "name": "Kelurahan Gomong",
+    "latitude": "-85.836.793.577.401",
+    "longitude": "11.609.862.763.435",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 82,
+    "name": "Kelurahan Jempong Baru",
+    "latitude": "-86.191.666.535.089",
+    "longitude": "11.608.322.236.687",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 83,
+    "name": "Kelurahan Karang Baru",
+    "latitude": "-85.694.870.238.884",
+    "longitude": "11.610.754.396.766",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 84,
+    "name": "kelurahan kebun sari",
+    "latitude": "-85.755.331.442.688",
+    "longitude": "11.609.601.985.663",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 85,
+    "name": "Kelurahan Mandalika",
+    "latitude": "-86.022.168.779.898",
+    "longitude": "1.161.529.282.853",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 86,
+    "name": "Kelurahan Mataram Barat",
+    "latitude": "-85.835.656.461.307",
+    "longitude": "11.610.418.885.946",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 87,
+    "name": "Kelurahan Mataram Timur",
+    "latitude": "-85.912.074.546.108",
+    "longitude": "11.611.024.864.018",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 88,
+    "name": "Kelurahan Monjok Timur",
+    "latitude": "-85.773.424",
+    "longitude": "1.161.104.086",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 89,
+    "name": "kelurahan pagesangan",
+    "latitude": "-85.995.890.329.428",
+    "longitude": "11.610.192.205.757",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 90,
+    "name": "Kelurahan Pagesangan Timur",
+    "latitude": "-85.972.025.081.938",
+    "longitude": "11.610.952.310.264",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 91,
+    "name": "kelurahan pagutan",
+    "latitude": "-86.114.680.602.032",
+    "longitude": "116.115.090.698",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 92,
+    "name": "Kelurahan Pagutan Barat",
+    "latitude": "-86.091.260.311.129",
+    "longitude": "11.610.721.707.344",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 93,
+    "name": "Kelurahan Pejanggik",
+    "latitude": "-85.849.563.732.415",
+    "longitude": "11.611.118.238.419",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 94,
+    "name": "kelurahan pejeruk",
+    "latitude": "-85.734.796.555.956",
+    "longitude": "11.608.700.025.827",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 95,
+    "name": "Kelurahan Punia",
+    "latitude": "-85.929.392.803.132",
+    "longitude": "11.610.126.089.305",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 96,
+    "name": "Kelurahan Selagalas",
+    "latitude": "-85.810.566.886.011",
+    "longitude": "11.614.318.113.774",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 97,
+    "name": "Kelurahan Turida",
+    "latitude": "-86.042.390.498.567",
+    "longitude": "11.614.308.960.736",
+    "category": "Kelurahan"
+  },
+  {
+    "id": 98,
+    "name": "Laboratorium Kesehatan Kota Mataram",
+    "latitude": "-8.620.094.823.305",
+    "longitude": "11.608.924.191.445",
+    "category": "UPTD"
+  },
+  {
+    "id": 99,
+    "name": "PENDOPO WALIKOTA MATARAM",
+    "latitude": "-85.822.674.085.488",
+    "longitude": "11.610.813.137.144",
+    "category": "Pendopo"
+  },
+  {
+    "id": 100,
+    "name": "Puskesmas Ampenan",
+    "latitude": "-85.699.110.544.391",
+    "longitude": "11.607.668.381.184",
+    "category": "Puskesmas"
+  },
+  {
+    "id": 101,
+    "name": "Puskesmas Cakranegara",
+    "latitude": "-85.947.453.565.782",
+    "longitude": "11.614.559.680.223",
+    "category": "Puskesmas"
+  },
+  {
+    "id": 102,
+    "name": "Puskesmas Dasan Agung",
+    "latitude": "-8.578.633.911.024",
+    "longitude": "11.609.401.557.595",
+    "category": "Puskesmas"
+  },
+  {
+    "id": 103,
+    "name": "Puskesmas Karang Pule",
+    "latitude": "-8.612.401.221.329",
+    "longitude": "11.609.916.675.836",
+    "category": "Puskesmas"
+  },
+  {
+    "id": 104,
+    "name": "Puskesmas Karang Taliwang",
+    "latitude": "-85.780.199.260.744",
+    "longitude": "11.612.590.938.807",
+    "category": "Puskesmas"
+  },
+  {
+    "id": 105,
+    "name": "Puskesmas Pagesangan",
+    "latitude": "-85.947.745.295.457",
+    "longitude": "11.610.039.956.868",
+    "category": "Puskesmas"
+  },
+  {
+    "id": 106,
+    "name": "puskesmas pejeruk",
+    "latitude": "-85.681.699",
+    "longitude": "1.160.931.411",
+    "category": "Puskesmas"
+  },
+  {
+    "id": 107,
+    "name": "Puskesmas Tanjung Karang",
+    "latitude": "-86.010.731.858.424",
+    "longitude": "11.608.352.378.011",
+    "category": "Puskesmas"
+  },
+  {
+    "id": 108,
+    "name": "Puskeswan Ampenan",
+    "latitude": "-86.190.894.164.196",
+    "longitude": "11.608.338.363.469",
+    "category": "UPTD"
+  },
+  {
+    "id": 109,
+    "name": "Puskeswan Mataram",
+    "latitude": "-86.032.319.433.159",
+    "longitude": "11.610.187.880.695",
+    "category": "UPTD"
+  },
+  {
+    "id": 110,
+    "name": "RPB N Karang Medain",
+    "latitude": "-85.875.047.555.586",
+    "longitude": "11.610.521.480.441",
+    "category": "UPTD"
+  },
+  {
+    "id": 111,
+    "name": "RPH Gubuk Mamben",
+    "latitude": "-86.012.972.834.744",
+    "longitude": "11.609.745.886.177",
+    "category": "UPTD"
+  },
+  {
+    "id": 112,
+    "name": "RPH N Mataram",
+    "latitude": "-85.816.550.870.863",
+    "longitude": "11.612.673.483.789",
+    "category": "UPTD"
+  },
+  {
+    "id": 113,
+    "name": "RPU Pagesangan",
+    "latitude": "-86.032.700.662.259",
+    "longitude": "11.610.184.192.657",
+    "category": "UPTD"
+  },
+  {
+    "id": 114,
+    "name": "Rusunawa Bintaro",
+    "latitude": "-85.552.202.256.272",
+    "longitude": "11.607.146.758.586",
+    "category": "UPTD"
+  },
+  {
+    "id": 115,
+    "name": "Rusunawa Montong Are",
+    "latitude": "-86.066.053.087.326",
+    "longitude": "11.615.251.321.346",
+    "category": "UPTD"
+  },
+  {
+    "id": 116,
+    "name": "Rusunawa Selagalas",
+    "latitude": "-85.813.016.839.952",
+    "longitude": "11.614.511.266.351",
+    "category": "UPTD"
+  },
+  {
+    "id": 117,
+    "name": "Satpol-PP Kota Mataram",
+    "latitude": "-86.200.931.658.609",
+    "longitude": "11.608.985.647.559",
+    "category": "Dinas"
+  },
+  {
+    "id": 118,
+    "name": "SD 28 CAKRA",
+    "latitude": "-86.052.262.636.092",
+    "longitude": "11.614.663.079.381",
+    "category": "SD"
+  },
+  {
+    "id": 119,
+    "name": "SD Negeri 17 Ampenan",
+    "latitude": "-85.683.521.845.214",
+    "longitude": "11.607.845.004.648",
+    "category": "SD"
+  },
+  {
+    "id": 120,
+    "name": "SD Negeri 18 Ampenan",
+    "latitude": "-85.687.361.007.599",
+    "longitude": "1.160.742.225.498",
+    "category": "SD"
+  },
+  {
+    "id": 121,
+    "name": "SD Negeri 23 Cakranegara",
+    "latitude": "-85.994.822.877.479",
+    "longitude": "11.612.635.463.476",
+    "category": "SD"
+  },
+  {
+    "id": 122,
+    "name": "SD Negeri 26 Ampenan",
+    "latitude": "-86.068.585.751.275",
+    "longitude": "11.611.382.938.921",
+    "category": "SD"
+  },
+  {
+    "id": 123,
+    "name": "sd negeri 30 ampenan",
+    "latitude": "-85.750.312.108.649",
+    "longitude": "11.609.482.627.362",
+    "category": "SD"
+  },
+  {
+    "id": 124,
+    "name": "SD Negeri 40 Mataram",
+    "latitude": "-8.592.507.319.168",
+    "longitude": "11.611.036.665.738",
+    "category": "SD"
+  },
+  {
+    "id": 125,
+    "name": "SD Negeri 43 Cakranegara",
+    "latitude": "-85.839.538.567.618",
+    "longitude": "11.615.353.245.288",
+    "category": "SD"
+  },
+  {
+    "id": 126,
+    "name": "SD Negeri 52 Cakranegara",
+    "latitude": "-8.569.783.082.798",
+    "longitude": "11.612.551.175.058",
+    "category": "SD"
+  },
+  {
+    "id": 127,
+    "name": "SD NEGERI 6 AMPENAN",
+    "latitude": "-86.177.173.781.127",
+    "longitude": "11.611.579.041.928",
+    "category": "SD"
+  },
+  {
+    "id": 128,
+    "name": "SDN 01 Cakranegara",
+    "latitude": "-85.848.095.100.471",
+    "longitude": "11.612.619.336.694",
+    "category": "SD"
+  },
+  {
+    "id": 129,
+    "name": "SDN 02 CAKRANEGARA",
+    "latitude": "-85.859.446.317.693",
+    "longitude": "11.611.908.920.109",
+    "category": "SD"
+  },
+  {
+    "id": 130,
+    "name": "SDN 03 Cakranegara",
+    "latitude": "-85.863.613.505.449",
+    "longitude": "11.613.751.664.758",
+    "category": "SD"
+  },
+  {
+    "id": 131,
+    "name": "SDN 03 Mataram",
+    "latitude": "-8.560.448.993.687",
+    "longitude": "11.611.032.608.896",
+    "category": "SD"
+  },
+  {
+    "id": 132,
+    "name": "SDN 04 Ampenan",
+    "latitude": "-85.684.509.816.561",
+    "longitude": "11.608.576.912.433",
+    "category": "SD"
+  },
+  {
+    "id": 133,
+    "name": "SDN 05 Cakranegara",
+    "latitude": "-85.929.631.492.186",
+    "longitude": "11.616.152.811.795",
+    "category": "SD"
+  },
+  {
+    "id": 134,
+    "name": "SDN 06 Cakranegara",
+    "latitude": "-85.849.991.392.626",
+    "longitude": "11.614.315.800.369",
+    "category": "SD"
+  },
+  {
+    "id": 135,
+    "name": "SDN 07 Ampenan",
+    "latitude": "-85.744.281.605.417",
+    "longitude": "11.607.596.933.842",
+    "category": "SD"
+  },
+  {
+    "id": 136,
+    "name": "SDN 07 CAKRANEGARA",
+    "latitude": "-85.699.054.183.832",
+    "longitude": "11.613.202.214.241",
+    "category": "SD"
+  },
+  {
+    "id": 137,
+    "name": "SDN 07 Mataram",
+    "latitude": "-85.825.621.314.129",
+    "longitude": "11.610.204.476.863",
+    "category": "SD"
+  },
+  {
+    "id": 138,
+    "name": "SDN 09 Cakranegara",
+    "latitude": "-86.008.832.331.601",
+    "longitude": "1.161.305.673.793",
+    "category": "SD"
+  },
+  {
+    "id": 139,
+    "name": "SDN 09 Mataram",
+    "latitude": "-85.691.127.228.764",
+    "longitude": "11.610.737.934.709",
+    "category": "SD"
+  },
+  {
+    "id": 140,
+    "name": "SDN 1 Ampenan",
+    "latitude": "-85.767.999.098.383",
+    "longitude": "11.608.005.803.078",
+    "category": "SD"
+  },
+  {
+    "id": 141,
+    "name": "SDN 1 Mataram",
+    "latitude": "-8.583.400.548.748",
+    "longitude": "11.610.410.571.098",
+    "category": "SD"
+  },
+  {
+    "id": 142,
+    "name": "SDN 10 Ampenan",
+    "latitude": "-85.901.847.322.343",
+    "longitude": "11.608.731.776.476",
+    "category": "SD"
+  },
+  {
+    "id": 143,
+    "name": "SDN 10 CAKRANEGARA",
+    "latitude": "-85.895.316.471.345",
+    "longitude": "11.612.264.715.135",
+    "category": "SD"
+  },
+  {
+    "id": 144,
+    "name": "SDN 10 Mataram",
+    "latitude": "-85.788.759.242.574",
+    "longitude": "1.161.169.109.121",
+    "category": "SD"
+  },
+  {
+    "id": 145,
+    "name": "SDN 11 AMPENAN",
+    "latitude": "-85.726.136.993.448",
+    "longitude": "11.607.603.304.088",
+    "category": "SD"
+  },
+  {
+    "id": 146,
+    "name": "SDN 11 CAKRANEGARA",
+    "latitude": "-85.819.193.103.832",
+    "longitude": "11.613.322.108.984",
+    "category": "SD"
+  },
+  {
+    "id": 147,
+    "name": "SDN 11 Mataram",
+    "latitude": "-85.632.180.135.383",
+    "longitude": "1.161.135.051.772",
+    "category": "SD"
+  },
+  {
+    "id": 148,
+    "name": "SDN 12 Ampenan",
+    "latitude": "-85.723.053.760.074",
+    "longitude": "11.607.489.712.536",
+    "category": "SD"
+  },
+  {
+    "id": 149,
+    "name": "SDN 12 Cakranegara",
+    "latitude": "-86.055.813.019.084",
+    "longitude": "11.612.733.531.743",
+    "category": "SD"
+  },
+  {
+    "id": 150,
+    "name": "SDN 12 Mataram",
+    "latitude": "-85.972.001.876.318",
+    "longitude": "11.610.586.356.372",
+    "category": "SD"
+  },
+  {
+    "id": 151,
+    "name": "SDN 13 Ampenan",
+    "latitude": "-85.784.277.023.666",
+    "longitude": "11.608.015.593.141",
+    "category": "SD"
+  },
+  {
+    "id": 152,
+    "name": "SDN 13 MATARAM",
+    "latitude": "-85.789.157.072.399",
+    "longitude": "11.610.572.241.247",
+    "category": "SD"
+  },
+  {
+    "id": 153,
+    "name": "SDN 14 AMPENAN",
+    "latitude": "-85.724.907.015.703",
+    "longitude": "11.607.571.151.108",
+    "category": "SD"
+  },
+  {
+    "id": 154,
+    "name": "SDN 14 CAKRANEGARA",
+    "latitude": "-85.898.124.407.137",
+    "longitude": "1.161.391.524.598",
+    "category": "SD"
+  },
+  {
+    "id": 155,
+    "name": "SDN 14 MATARAM",
+    "latitude": "-85.874.324.847.725",
+    "longitude": "11.609.843.619.168",
+    "category": "SD"
+  },
+  {
+    "id": 156,
+    "name": "SDN 15 Ampenan",
+    "latitude": "-86.008.911.892.953",
+    "longitude": "11.608.320.258.558",
+    "category": "SD"
+  },
+  {
+    "id": 157,
+    "name": "SDN 15 CAKRANEGARA",
+    "latitude": "-85.776.141.385.004",
+    "longitude": "11.612.714.923.918",
+    "category": "SD"
+  },
+  {
+    "id": 158,
+    "name": "SDN 15 Mataram",
+    "latitude": "-85.897.441.485.518",
+    "longitude": "11.610.437.661.409",
+    "category": "SD"
+  },
+  {
+    "id": 159,
+    "name": "SDN 16 AMPENAN",
+    "latitude": "-85.690.877",
+    "longitude": "1.160.947.301",
+    "category": "SD"
+  },
+  {
+    "id": 160,
+    "name": "SDN 16 CAKRANEGARA",
+    "latitude": "-85.952.220.691.057",
+    "longitude": "11.612.657.759.339",
+    "category": "SD"
+  },
+  {
+    "id": 161,
+    "name": "SDN 16 Mataram",
+    "latitude": "-85.840.665.736.939",
+    "longitude": "11.609.805.900.604",
+    "category": "SD"
+  },
+  {
+    "id": 162,
+    "name": "SDN 17 Mataram",
+    "latitude": "-85.846.159.024.986",
+    "longitude": "1.161.029.580.608",
+    "category": "SD"
+  },
+  {
+    "id": 163,
+    "name": "SDN 18 CAKRANEGARA",
+    "latitude": "-85.982.891.926.701",
+    "longitude": "11.613.414.812.833",
+    "category": "SD"
+  },
+  {
+    "id": 164,
+    "name": "SDN 18 Mataram",
+    "latitude": "-85.775.687.194.394",
+    "longitude": "11.609.269.291.162",
+    "category": "SD"
+  },
+  {
+    "id": 165,
+    "name": "SDN 19 AMPENAN",
+    "latitude": "-86.143.185.867.344",
+    "longitude": "11.609.761.107.713",
+    "category": "SD"
+  },
+  {
+    "id": 166,
+    "name": "SDN 19CAKRANEGARA",
+    "latitude": "-8.596.208.974.846",
+    "longitude": "11.612.003.736.198",
+    "category": "SD"
+  },
+  {
+    "id": 167,
+    "name": "SDN 2 AMPENAN",
+    "latitude": "-86.006.886.393.012",
+    "longitude": "11.609.047.506.005",
+    "category": "SD"
+  },
+  {
+    "id": 168,
+    "name": "SDN 2 KURANJI",
+    "latitude": "-86.238.349.929.925",
+    "longitude": "11.608.043.253.422",
+    "category": "SD"
+  },
+  {
+    "id": 169,
+    "name": "SDN 2 Mataram",
+    "latitude": "-85.839.992.750.591",
+    "longitude": "11.611.260.831.356",
+    "category": "SD"
+  },
+  {
+    "id": 170,
+    "name": "SDN 20 CAKRANEGARA",
+    "latitude": "-85.923.591.328.444",
+    "longitude": "11.613.325.629.383",
+    "category": "SD"
+  },
+  {
+    "id": 171,
+    "name": "SDN 20 Mataram",
+    "latitude": "-8.580.973.476.327",
+    "longitude": "11.611.450.832.337",
+    "category": "SD"
+  },
+  {
+    "id": 172,
+    "name": "SDN 21 AMPENAN",
+    "latitude": "-85.630.883.819.522",
+    "longitude": "11.607.490.651.309",
+    "category": "SD"
+  },
+  {
+    "id": 173,
+    "name": "SDN 21 CAKRANEGARA",
+    "latitude": "-85.835.686.298.177",
+    "longitude": "11.612.012.386.322",
+    "category": "SD"
+  },
+  {
+    "id": 174,
+    "name": "sdn 22 ampenan",
+    "latitude": "-85.726.534.829.831",
+    "longitude": "11.608.455.576.003",
+    "category": "SD"
+  },
+  {
+    "id": 175,
+    "name": "SDN 22 Cakranegara",
+    "latitude": "-85.917.401.973.948",
+    "longitude": "11.614.492.557.943",
+    "category": "SD"
+  },
+  {
+    "id": 176,
+    "name": "SDN 22 MATARAM",
+    "latitude": "-85.743.853.933.301",
+    "longitude": "11.610.955.897.719",
+    "category": "SD"
+  },
+  {
+    "id": 177,
+    "name": "SDN 23 Ampenan",
+    "latitude": "-85.830.454.896.755",
+    "longitude": "11.607.770.137.489",
+    "category": "SD"
+  },
+  {
+    "id": 178,
+    "name": "SDN 23 Mataram",
+    "latitude": "-85.883.464.771.402",
+    "longitude": "11.610.989.391.804",
+    "category": "SD"
+  },
+  {
+    "id": 179,
+    "name": "SDN 24 CAKRANEGARA",
+    "latitude": "-85.820.588.812.098",
+    "longitude": "11.612.737.420.946",
+    "category": "SD"
+  },
+  {
+    "id": 180,
+    "name": "SDN 24 Mataram",
+    "latitude": "-85.788.835.493.294",
+    "longitude": "11.611.361.581.832",
+    "category": "SD"
+  },
+  {
+    "id": 181,
+    "name": "SDN 25 CAKRANEGARAA",
+    "latitude": "-85.919.951.312.937",
+    "longitude": "11.613.187.663.257",
+    "category": "SD"
+  },
+  {
+    "id": 182,
+    "name": "SDN 25 MATARAM",
+    "latitude": "-85.786.627.537.052",
+    "longitude": "11.609.362.665.564",
+    "category": "SD"
+  },
+  {
+    "id": 183,
+    "name": "SDN 26 cakranegara",
+    "latitude": "-8.614.202.895.356",
+    "longitude": "11.612.775.944.173",
+    "category": "SD"
+  },
+  {
+    "id": 184,
+    "name": "SDN 26 Mataram",
+    "latitude": "-85.807.583.178.129",
+    "longitude": "11.609.302.382.916",
+    "category": "SD"
+  },
+  {
+    "id": 185,
+    "name": "SDN 27 AMPENAN",
+    "latitude": "-86.002.182.322.687",
+    "longitude": "11.608.901.795",
+    "category": "SD"
+  },
+  {
+    "id": 186,
+    "name": "SDN 27 CAKRANEGARA.",
+    "latitude": "-85.661.829.510.318",
+    "longitude": "11.612.955.149.263",
+    "category": "SD"
+  },
+  {
+    "id": 187,
+    "name": "SDN 28 AMPENAN",
+    "latitude": "-85.756.849.839.658",
+    "longitude": "11.607.680.082.321",
+    "category": "SD"
+  },
+  {
+    "id": 188,
+    "name": "SDN 28 Mataram",
+    "latitude": "-85.984.844.507.768",
+    "longitude": "11.611.079.312.861",
+    "category": "SD"
+  },
+  {
+    "id": 189,
+    "name": "SDN 29 AMPENAN",
+    "latitude": "-85.625.363.697.164",
+    "longitude": "11.608.413.968.235",
+    "category": "SD"
+  },
+  {
+    "id": 190,
+    "name": "SDN 29 MATARAM",
+    "latitude": "-85.623.742.470.517",
+    "longitude": "11.611.874.956.638",
+    "category": "SD"
+  },
+  {
+    "id": 191,
+    "name": "SDN 30 Cakranegara",
+    "latitude": "-8.576.794.936.938",
+    "longitude": "11.614.517.200.738",
+    "category": "SD"
+  },
+  {
+    "id": 192,
+    "name": "SDN 30 Mataram",
+    "latitude": "-85.657.025.551.469",
+    "longitude": "1.161.087.751.016",
+    "category": "SD"
+  },
+  {
+    "id": 193,
+    "name": "SDN 31 CAKRANEGARA",
+    "latitude": "-85.862.443.245.547",
+    "longitude": "11.614.244.755.358",
+    "category": "SD"
+  },
+  {
+    "id": 194,
+    "name": "SDN 32 Ampenan",
+    "latitude": "-86.100.270.427.461",
+    "longitude": "11.611.825.000.495",
+    "category": "SD"
+  },
+  {
+    "id": 195,
+    "name": "SDN 32 Cakranegara",
+    "latitude": "-85.943.452.225.823",
+    "longitude": "11.614.575.974.643",
+    "category": "SD"
+  },
+  {
+    "id": 196,
+    "name": "SDN 32 Mataram",
+    "latitude": "-85.791.348.450.938",
+    "longitude": "11.609.984.401.613",
+    "category": "SD"
+  },
+  {
+    "id": 197,
+    "name": "sdn 33 ampenan",
+    "latitude": "-85.663.861.825.106",
+    "longitude": "11.608.749.311.417",
+    "category": "SD"
+  },
+  {
+    "id": 198,
+    "name": "SDN 33 CAKRANEGARA",
+    "latitude": "-8.595.284.724.602",
+    "longitude": "11.612.306.289.375",
+    "category": "SD"
+  },
+  {
+    "id": 199,
+    "name": "SDN 34 ampenan",
+    "latitude": "-85.737.465.368.142",
+    "longitude": "11.608.274.191.618",
+    "category": "SD"
+  },
+  {
+    "id": 200,
+    "name": "SDN 34 CAKRANEGARA",
+    "latitude": "-8.594.821.604.102",
+    "longitude": "11.613.124.128.431",
+    "category": "SD"
+  },
+  {
+    "id": 201,
+    "name": "SDN 34 Mataram",
+    "latitude": "-85.743.628.493.717",
+    "longitude": "11.611.914.753.914",
+    "category": "SD"
+  },
+  {
+    "id": 202,
+    "name": "SDN 35 CAKRANEGARA",
+    "latitude": "-85.955.701.550.649",
+    "longitude": "11.613.742.008.805",
+    "category": "SD"
+  },
+  {
+    "id": 203,
+    "name": "SDN 35 Mataram",
+    "latitude": "-85.955.731.386.575",
+    "longitude": "11.610.335.368.663",
+    "category": "SD"
+  },
+  {
+    "id": 204,
+    "name": "SDN 36 Ampenan",
+    "latitude": "-86.151.340.607.762",
+    "longitude": "11.611.466.959.119",
+    "category": "SD"
+  },
+  {
+    "id": 205,
+    "name": "SDN 36 CAKRANEGARA",
+    "latitude": "-85.818.447.178.776",
+    "longitude": "11.613.628.719.002",
+    "category": "SD"
+  },
+  {
+    "id": 206,
+    "name": "SDN 36 Mataram",
+    "latitude": "-85.823.065.281.323",
+    "longitude": "11.611.813.902.855",
+    "category": "SD"
+  },
+  {
+    "id": 207,
+    "name": "SDN 37 Ampenan",
+    "latitude": "-8.596.183.780.106",
+    "longitude": "11.608.352.478.594",
+    "category": "SD"
+  },
+  {
+    "id": 208,
+    "name": "SDN 37 CAKRANEGARA",
+    "latitude": "-86.036.761.578.543",
+    "longitude": "11.613.854.125.142",
+    "category": "SD"
+  },
+  {
+    "id": 209,
+    "name": "SDN 37 Mataram",
+    "latitude": "-85.771.446.974.327",
+    "longitude": "11.608.976.460.993",
+    "category": "SD"
+  },
+  {
+    "id": 210,
+    "name": "SDN 38 Ampenan",
+    "latitude": "-85.960.140.470.768",
+    "longitude": "11.608.001.276.851",
+    "category": "SD"
+  },
+  {
+    "id": 211,
+    "name": "SDN 38 Cakranegara",
+    "latitude": "-85.876.327.212.285",
+    "longitude": "11.614.171.463.996",
+    "category": "SD"
+  },
+  {
+    "id": 212,
+    "name": "SDN 38 MATARAM",
+    "latitude": "-86.014.564.059.727",
+    "longitude": "11.610.224.660.486",
+    "category": "SD"
+  },
+  {
+    "id": 213,
+    "name": "Sdn 39 ampenan",
+    "latitude": "-85.661.991.962.926",
+    "longitude": "11.608.273.789.287",
+    "category": "SD"
+  },
+  {
+    "id": 214,
+    "name": "sdn 39 cakra",
+    "latitude": "-85.929.246.937.591",
+    "longitude": "11.615.860.786.289",
+    "category": "SD"
+  },
+  {
+    "id": 215,
+    "name": "SDN 39 Mataram",
+    "latitude": "-85.752.357.637.258",
+    "longitude": "116.104.744.412",
+    "category": "SD"
+  },
+  {
+    "id": 216,
+    "name": "SDN 4 BAJUR",
+    "latitude": "-86.239.476.980.542",
+    "longitude": "1.160.964.711.383",
+    "category": "SD"
+  },
+  {
+    "id": 217,
+    "name": "SDN 4 CAKRANEGARA",
+    "latitude": "-85.925.033.410.124",
+    "longitude": "11.613.861.802.965",
+    "category": "SD"
+  },
+  {
+    "id": 218,
+    "name": "SDN 4 Kuranji",
+    "latitude": "-86.224.593.255.602",
+    "longitude": "11.607.645.314.187",
+    "category": "SD"
+  },
+  {
+    "id": 219,
+    "name": "SDN 40 ampenan",
+    "latitude": "-85.977.359.055.699",
+    "longitude": "11.609.319.582.582",
+    "category": "SD"
+  },
+  {
+    "id": 220,
+    "name": "Sdn 40 cakra",
+    "latitude": "-86.082.399.347.988",
+    "longitude": "11.613.642.532.378",
+    "category": "SD"
+  },
+  {
+    "id": 221,
+    "name": "SDN 41 Ampenan",
+    "latitude": "-8.612.687.301.881",
+    "longitude": "11.610.295.537.859",
+    "category": "SD"
+  },
+  {
+    "id": 222,
+    "name": "SDN 41 Mataram",
+    "latitude": "-8.596.351.192.492",
+    "longitude": "11.610.409.967.601",
+    "category": "SD"
+  },
+  {
+    "id": 223,
+    "name": "SDN 42 Ampenan",
+    "latitude": "-8.613.646.979.557",
+    "longitude": "11.611.087.694.764",
+    "category": "SD"
+  },
+  {
+    "id": 224,
+    "name": "SDN 42 Mataram",
+    "latitude": "-85.802.010.268.572",
+    "longitude": "11.612.412.739.545",
+    "category": "SD"
+  },
+  {
+    "id": 225,
+    "name": "SDN 43 Ampenan",
+    "latitude": "-86.145.151.625.484",
+    "longitude": "11.608.778.078.109",
+    "category": "SD"
+  },
+  {
+    "id": 226,
+    "name": "SDN 43 Mataram",
+    "latitude": "-85.584.889.186.077",
+    "longitude": "1.161.117.721.349",
+    "category": "SD"
+  },
+  {
+    "id": 227,
+    "name": "SDN 44 Cakranegara",
+    "latitude": "-86.084.428.122.525",
+    "longitude": "11.614.186.082.035",
+    "category": "SD"
+  },
+  {
+    "id": 228,
+    "name": "SDN 45 MATARAM",
+    "latitude": "-85.938.728.186.052",
+    "longitude": "1.160.956.466.943",
+    "category": "SD"
+  },
+  {
+    "id": 229,
+    "name": "SDN 46 AMPENAN",
+    "latitude": "-86.171.936.221.426",
+    "longitude": "11.612.040.985.376",
+    "category": "SD"
+  },
+  {
+    "id": 230,
+    "name": "SDN 46 Cakranegara",
+    "latitude": "-8.597.380.859.917",
+    "longitude": "11.613.898.716.867",
+    "category": "SD"
+  },
+  {
+    "id": 231,
+    "name": "SDN 46 MATARAM",
+    "latitude": "-85.722.370.806.967",
+    "longitude": "11.610.905.438.662",
+    "category": "SD"
+  },
+  {
+    "id": 232,
+    "name": "sdn 47 ampenan",
+    "latitude": "-85.572.403.269.542",
+    "longitude": "1.160.717.901.215",
+    "category": "SD"
+  },
+  {
+    "id": 233,
+    "name": "SDN 47 Cakranegara",
+    "latitude": "-85.690.984.669.404",
+    "longitude": "11.613.623.891.026",
+    "category": "SD"
+  },
+  {
+    "id": 234,
+    "name": "SDN 47 Mataram",
+    "latitude": "-8.611.923.204.443",
+    "longitude": "11.610.511.489.213",
+    "category": "SD"
+  },
+  {
+    "id": 235,
+    "name": "SDN 48 Cakranegara",
+    "latitude": "-85.992.757.589.161",
+    "longitude": "11.615.010.425.448",
+    "category": "SD"
+  },
+  {
+    "id": 236,
+    "name": "SDN 49 CAKRANEGARA",
+    "latitude": "-85.899.980.892.469",
+    "longitude": "11.615.066.081.285",
+    "category": "SD"
+  },
+  {
+    "id": 237,
+    "name": "SDN 50 Cakranegara",
+    "latitude": "-8.600.992.298.499",
+    "longitude": "11.614.675.886.929",
+    "category": "SD"
+  },
+  {
+    "id": 238,
+    "name": "sdn 51 cakranegara",
+    "latitude": "-85.888.556.862.963",
+    "longitude": "11.616.023.093.462",
+    "category": "SD"
+  },
+  {
+    "id": 239,
+    "name": "SDN 6 Mataram",
+    "latitude": "-85.846.447.447.253",
+    "longitude": "11.611.040.923.744",
+    "category": "SD"
+  },
+  {
+    "id": 240,
+    "name": "SDN 8 CAKRANEGARA",
+    "latitude": "-86.044.273.433.432",
+    "longitude": "11.613.637.201.488",
+    "category": "SD"
+  },
+  {
+    "id": 241,
+    "name": "SDN 8 Mataram",
+    "latitude": "-85.787.797.820.325",
+    "longitude": "11.610.765.829.682",
+    "category": "SD"
+  },
+  {
+    "id": 242,
+    "name": "SDN no 5 Ampenan jln saleh sungkar no 56",
+    "latitude": "-85.654.091.453.535",
+    "longitude": "11.607.664.357.871",
+    "category": "SD"
+  },
+  {
+    "id": 243,
+    "name": "Sekolah Dasar Negeri 24 Ampenan",
+    "latitude": "-85.647.493.869.125",
+    "longitude": "11.609.812.002.629",
+    "category": "SD"
+  },
+  {
+    "id": 244,
+    "name": "Sekolah Dasar Negeri 44 Mataram",
+    "latitude": "-85.973.105.800.658",
+    "longitude": "11.611.382.000.148",
+    "category": "SD"
+  },
+  {
+    "id": 245,
+    "name": "Sekretariat DPRD Kota Mataram",
+    "latitude": "-86.202.403.468.627",
+    "longitude": "11.608.339.972.794",
+    "category": "Dinas"
+  },
+  {
+    "id": 246,
+    "name": "Setda Kota Mataram",
+    "latitude": "-85.829.887.995.408",
+    "longitude": "11.610.806.230.456",
+    "category": "Dinas"
+  },
+  {
+    "id": 247,
+    "name": "SMP NEGERI 01 MATARAM",
+    "latitude": "-85.819.305.821.383",
+    "longitude": "11.610.278.841.108",
+    "category": "SMP"
+  },
+  {
+    "id": 248,
+    "name": "SMP NEGERI 02 MATARAM",
+    "latitude": "-85.822.541.476.722",
+    "longitude": "11.610.355.284.065",
+    "category": "SMP"
+  },
+  {
+    "id": 249,
+    "name": "SMP NEGERI 03 MATARAM",
+    "latitude": "-85.722.752.067.212",
+    "longitude": "11.607.611.954.212",
+    "category": "SMP"
+  },
+  {
+    "id": 250,
+    "name": "SMP NEGERI 04 MATARAM",
+    "latitude": "-85.775.531.377.165",
+    "longitude": "11.612.582.590.431",
+    "category": "SMP"
+  },
+  {
+    "id": 251,
+    "name": "SMP NEGERI 06 MATARAM",
+    "latitude": "-85.711.672.297.372",
+    "longitude": "1.161.035.226.658",
+    "category": "SMP"
+  },
+  {
+    "id": 252,
+    "name": "SMP NEGERI 07 MATARAM",
+    "latitude": "-86.062.476.193.862",
+    "longitude": "11.611.353.769.898",
+    "category": "SMP"
+  },
+  {
+    "id": 253,
+    "name": "SMP Negeri 08 Mataram",
+    "latitude": "-8.562.279.426.811",
+    "longitude": "11.611.288.491.637",
+    "category": "SMP"
+  },
+  {
+    "id": 254,
+    "name": "SMP NEGERI 09 MATARAM",
+    "latitude": "-85.919.517.030.343",
+    "longitude": "11.610.228.750.855",
+    "category": "SMP"
+  },
+  {
+    "id": 255,
+    "name": "SMP Negeri 11 Mataram",
+    "latitude": "-85.942.945.013.414",
+    "longitude": "1.160.880.966.112",
+    "category": "SMP"
+  },
+  {
+    "id": 256,
+    "name": "SMP Negeri 12 Mataram",
+    "latitude": "-85.819.995.387.506",
+    "longitude": "11.614.598.169.923",
+    "category": "SMP"
+  },
+  {
+    "id": 257,
+    "name": "SMP Negeri 14 Mataram",
+    "latitude": "-85.939.818.859.616",
+    "longitude": "1.161.415.989.697",
+    "category": "SMP"
+  },
+  {
+    "id": 258,
+    "name": "SMP NEGERI 15 MATARAM",
+    "latitude": "-85.817.813.971.169",
+    "longitude": "11.610.226.672.143",
+    "category": "SMP"
+  },
+  {
+    "id": 259,
+    "name": "SMP negeri 16 mataram",
+    "latitude": "-85.815.662.390.605",
+    "longitude": "11.612.446.669.489",
+    "category": "SMP"
+  },
+  {
+    "id": 260,
+    "name": "SMP Negeri 17 Mataram",
+    "latitude": "-86.165.250.034.985",
+    "longitude": "11.607.647.024.095",
+    "category": "SMP"
+  },
+  {
+    "id": 261,
+    "name": "SMP NEGERI 19 MATARAM",
+    "latitude": "-86.134.238.837.203",
+    "longitude": "1.161.243.134.737",
+    "category": "SMP"
+  },
+  {
+    "id": 262,
+    "name": "SMP NEGERI 20 MATARAM",
+    "latitude": "-86.043.272.295.645",
+    "longitude": "11.614.458.829.165",
+    "category": "SMP"
+  },
+  {
+    "id": 263,
+    "name": "SMP NEGERI 21 MATARAM",
+    "latitude": "-86.031.689.576.303",
+    "longitude": "11.608.857.572.079",
+    "category": "SMP"
+  },
+  {
+    "id": 264,
+    "name": "SMP Negeri 22 Mataram",
+    "latitude": "-85.890.771.390.234",
+    "longitude": "11.616.122.737.527",
+    "category": "SMP"
+  },
+  {
+    "id": 265,
+    "name": "SMP Negeri 23 Mataram",
+    "latitude": "-85.738.473.217.225",
+    "longitude": "11.611.719.120.294",
+    "category": "SMP"
+  },
+  {
+    "id": 266,
+    "name": "SMP Negeri 24 mataram",
+    "latitude": "-85.683.200.257.169",
+    "longitude": "11.609.118.886.292",
+    "category": "SMP"
+  },
+  {
+    "id": 267,
+    "name": "SMPN 13 MATARAM",
+    "latitude": "-85.829.685.767.421",
+    "longitude": "1.160.882.525.146",
+    "category": "SMP"
+  },
+  {
+    "id": 268,
+    "name": "SMPN 5 MATARAM",
+    "latitude": "-86.014.418.197.465",
+    "longitude": "11.613.601.025.194",
+    "category": "SMP"
+  },
+  {
+    "id": 269,
+    "name": "SSN 42 CAKRANEGARA",
+    "latitude": "-86.051.941.079.298",
+    "longitude": "11.613.074.775.785",
+    "category": "SD"
+  },
+  {
+    "id": 270,
+    "name": "TK Aisyiah 6",
+    "latitude": "-86.042.065.625.907",
+    "longitude": "11.610.529.426.485",
+    "category": "TK"
+  },
+  {
+    "id": 271,
+    "name": "TK AISYIYAH BUSTANUL ATHFAL",
+    "latitude": "-8.584.607.614.502",
+    "longitude": "11.612.883.936.614",
+    "category": "TK"
+  },
+  {
+    "id": 272,
+    "name": "TK AISYIYAH BUSTANUL ATHFAL 5",
+    "latitude": "-86.059.572.244.505",
+    "longitude": "11.610.911.305.994",
+    "category": "TK"
+  },
+  {
+    "id": 273,
+    "name": "TK AL HAMIDY",
+    "latitude": "-86.120.173.492.867",
+    "longitude": "11.611.426.390.707",
+    "category": "TK"
+  },
+  {
+    "id": 274,
+    "name": "TK AL HILAL",
+    "latitude": "-85.951.312.351.933",
+    "longitude": "11.608.527.526.259",
+    "category": "TK"
+  },
+  {
+    "id": 275,
+    "name": "TK AL MIFTAH AMPENAN",
+    "latitude": "-85.821.288.323.649",
+    "longitude": "11.608.191.847.801",
+    "category": "TK"
+  },
+  {
+    "id": 276,
+    "name": "TK ALANG ALANG",
+    "latitude": "-8.606.026.508.194",
+    "longitude": "11.607.565.149.665",
+    "category": "TK"
+  },
+  {
+    "id": 277,
+    "name": "TK AMDANI",
+    "latitude": "-85.857.553.345.451",
+    "longitude": "11.613.472.245.634",
+    "category": "TK"
+  },
+  {
+    "id": 278,
+    "name": "TK AYSIYAH 2 MATARAM",
+    "latitude": "-85.824.540.553.386",
+    "longitude": "1.160.993.501.544",
+    "category": "TK"
+  },
+  {
+    "id": 279,
+    "name": "TK BAKTI ARRAHMAN",
+    "latitude": "-85.681.506.117.643",
+    "longitude": "11.610.712.051.392",
+    "category": "TK"
+  },
+  {
+    "id": 280,
+    "name": "TK BAKTI INSANI",
+    "latitude": "-8.564.935.710.769",
+    "longitude": "11.611.852.627.248",
+    "category": "TK"
+  },
+  {
+    "id": 281,
+    "name": "TK BARUNAWATI AMPENAN",
+    "latitude": "-85.697.678.322.887",
+    "longitude": "11.607.296.425.849",
+    "category": "TK"
+  },
+  {
+    "id": 282,
+    "name": "TK DAHLIA REMBIGA MATARAM",
+    "latitude": "-85.590.525.406.893",
+    "longitude": "11.611.189.115.793",
+    "category": "TK"
+  },
+  {
+    "id": 283,
+    "name": "TK DHARMA WANITA DEWI SERUNI",
+    "latitude": "-85.732.538.838.842",
+    "longitude": "1.160.870.756.954",
+    "category": "TK"
+  },
+  {
+    "id": 284,
+    "name": "TK DHARMA WANITA I",
+    "latitude": "-85.986.054.510.811",
+    "longitude": "11.611.092.690.378",
+    "category": "TK"
+  },
+  {
+    "id": 285,
+    "name": "TK DHARMA WANITA III",
+    "latitude": "-85.952.654.969.905",
+    "longitude": "11.612.656.921.148",
+    "category": "TK"
+  },
+  {
+    "id": 286,
+    "name": "TK DHARMA WANITA SEROJA",
+    "latitude": "-85.721.770.736.417",
+    "longitude": "11.607.470.769.435",
+    "category": "TK"
+  },
+  {
+    "id": 287,
+    "name": "TK DHARMA WANITA TUNJUNG SARI",
+    "latitude": "-8.578.434.664.397",
+    "longitude": "11.608.047.444.373",
+    "category": "TK"
+  },
+  {
+    "id": 288,
+    "name": "TK DW DAHLIA AMPENAN",
+    "latitude": "-85.756.674.129.996",
+    "longitude": "11.607.670.392.841",
+    "category": "TK"
+  },
+  {
+    "id": 289,
+    "name": "TK DWP PERSATUAN DIKPORA NTB",
+    "latitude": "-85.708.194.529.324",
+    "longitude": "11.608.038.492.501",
+    "category": "TK"
+  },
+  {
+    "id": 290,
+    "name": "TK FATHUL MUBIN",
+    "latitude": "-8.598.059.126.113",
+    "longitude": "11.613.557.942.212",
+    "category": "TK"
+  },
+  {
+    "id": 291,
+    "name": "TK HAMZANWADI NW",
+    "latitude": "-86.058.299.279.701",
+    "longitude": "11.612.741.980.702",
+    "category": "TK"
+  },
+  {
+    "id": 292,
+    "name": "TK HANG TUAH 17 AMPENAN",
+    "latitude": "-85.682.321.691.756",
+    "longitude": "11.608.639.240.265",
+    "category": "TK"
+  },
+  {
+    "id": 293,
+    "name": "TK Idhata Mataram",
+    "latitude": "-85.839.866.772.837",
+    "longitude": "11.609.824.005.514",
+    "category": "TK"
+  },
+  {
+    "id": 294,
+    "name": "TK ISLAM NURUL IMAN",
+    "latitude": "-8.597.997.797.108",
+    "longitude": "11.609.144.769.609",
+    "category": "TK"
+  },
+  {
+    "id": 295,
+    "name": "TK ISLAM TARBIYATUL UMMAH",
+    "latitude": "-85.898.121.091.984",
+    "longitude": "11.610.872.916.877",
+    "category": "TK"
+  },
+  {
+    "id": 296,
+    "name": "TK KEMALA BHAYANGKARI 01",
+    "latitude": "-85.801.290.862.043",
+    "longitude": "11.608.341.045.678",
+    "category": "TK"
+  },
+  {
+    "id": 297,
+    "name": "TK MITRA BANGSA",
+    "latitude": "-85.780.325.240.477",
+    "longitude": "11.612.807.996.571",
+    "category": "TK"
+  },
+  {
+    "id": 298,
+    "name": "TK Negeri Model Mataram",
+    "latitude": "-85.925.676.545.225",
+    "longitude": "1.161.404.979.229",
+    "category": "TK"
+  },
+  {
+    "id": 299,
+    "name": "TK NEGERI PEMBINA AMPENAN",
+    "latitude": "-86.070.200.157.908",
+    "longitude": "11.611.238.032.579",
+    "category": "TK"
+  },
+  {
+    "id": 300,
+    "name": "TK Negeri Pembina Mataram",
+    "latitude": "-85.829.307.833.123",
+    "longitude": "1.160.895.178.467",
+    "category": "TK"
+  },
+  {
+    "id": 301,
+    "name": "TK NURUL JANNAH NW",
+    "latitude": "-8.576.610.276.528",
+    "longitude": "11.607.334.244.996",
+    "category": "TK"
+  },
+  {
+    "id": 302,
+    "name": "TK Pertiwi Mataram",
+    "latitude": "-85.854.238.155.362",
+    "longitude": "11.611.122.597.009",
+    "category": "TK"
+  },
+  {
+    "id": 303,
+    "name": "TK PERTIWI MONJOK",
+    "latitude": "-85.783.885.823.835",
+    "longitude": "1.161.167.422.682",
+    "category": "TK"
+  },
+  {
+    "id": 304,
+    "name": "TK PGRI 1 MATARAM",
+    "latitude": "-85.964.416.946.025",
+    "longitude": "11.610.433.772.206",
+    "category": "TK"
+  },
+  {
+    "id": 305,
+    "name": "TK PGRI 2 MATARAM",
+    "latitude": "-86.011.958.428.468",
+    "longitude": "1.161.019.525.677",
+    "category": "TK"
+  },
+  {
+    "id": 306,
+    "name": "TK PGRI 4 CAKRA",
+    "latitude": "-86.037.285.353.551",
+    "longitude": "11.613.855.432.719",
+    "category": "TK"
+  },
+  {
+    "id": 307,
+    "name": "TK PGRI 4 MATARAM",
+    "latitude": "-85.771.970.785.975",
+    "longitude": "11.608.972.605.318",
+    "category": "TK"
+  },
+  {
+    "id": 308,
+    "name": "TK PGRI 5 MATARAM",
+    "latitude": "-85.822.640.933.297",
+    "longitude": "11.611.818.596.721",
+    "category": "TK"
+  },
+  {
+    "id": 309,
+    "name": "TK PGRI 6 MATARAM",
+    "latitude": "-8.578.982.675.251",
+    "longitude": "11.609.981.954.098",
+    "category": "TK"
+  },
+  {
+    "id": 310,
+    "name": "TK PGRI AMPENAN",
+    "latitude": "-85.651.664.604.721",
+    "longitude": "11.607.674.449.682",
+    "category": "TK"
+  },
+  {
+    "id": 311,
+    "name": "TK PGRI I CAKRA",
+    "latitude": "-85.776.671.826.523",
+    "longitude": "11.612.701.814.622",
+    "category": "TK"
+  },
+  {
+    "id": 312,
+    "name": "TK PGRI TUNAS HARAPAN",
+    "latitude": "-85.683.757.234.383",
+    "longitude": "11.607.866.529.375",
+    "category": "TK"
+  },
+  {
+    "id": 313,
+    "name": "TK RAUDATUSH SHIBYAN",
+    "latitude": "-85.714.085.846.636",
+    "longitude": "1.160.873.536.393",
+    "category": "TK"
+  },
+  {
+    "id": 314,
+    "name": "TK RAUDHATUL JANNAH",
+    "latitude": "-85.979.291.749.124",
+    "longitude": "11.610.860.008.746",
+    "category": "TK"
+  },
+  {
+    "id": 315,
+    "name": "TK SARASWATI MATARAM",
+    "latitude": "-85.881.266.815.706",
+    "longitude": "11.611.269.816.756",
+    "category": "TK"
+  },
+  {
+    "id": 316,
+    "name": "TK SERUNI",
+    "latitude": "-85.851.635.729.113",
+    "longitude": "11.614.279.557.019",
+    "category": "TK"
+  },
+  {
+    "id": 317,
+    "name": "TK YPRU MATARAM",
+    "latitude": "-85.816.683.479.838",
+    "longitude": "11.610.813.304.782",
+    "category": "TK"
+  },
+  {
+    "id": 318,
+    "name": "TKN Pembina Cakranegara Kec.Sandubaya",
+    "latitude": "-85.997.501.451.984",
+    "longitude": "11.615.255.177.021",
+    "category": "TK"
+  },
+  {
+    "id": 319,
+    "name": "UPTD KB Kec.Sandubaya",
+    "latitude": "-85.931.110.037.937",
+    "longitude": "11.615.169.547.498",
+    "category": "UPTD"
+  },
+  {
+    "id": 320,
+    "name": "UPTD KECAMATAN MATARAM",
+    "latitude": "-86.176.693.119.305",
+    "longitude": "116.120.541.282",
+    "category": "UPTD"
+  },
+  {
+    "id": 321,
+    "name": "UPTD Laboratorium DLH",
+    "latitude": "-856.631.921.228",
+    "longitude": "11.613.536.383.957",
+    "category": "UPTD"
+  },
+  {
+    "id": 322,
+    "name": "UPTD P PERPARKIRAN DISHUB KOTA MATARAM",
+    "latitude": "-85.661.206.222.693",
+    "longitude": "11.613.514.591.008",
+    "category": "UPTD"
+  },
+  {
+    "id": 323,
+    "name": "UPTD PPKB Kec. Ampenan",
+    "latitude": "-85.712.965.270.382",
+    "longitude": "11.607.577.554.882",
+    "category": "UPTD"
+  },
+  {
+    "id": 324,
+    "name": "UPTD Puskeswan Kota Mataram",
+    "latitude": "-85.793.806",
+    "longitude": "1.161.433.099",
+    "category": "UPTD"
+  },
+  {
+    "id": 325,
+    "name": "UPTD RPH dan Pasar Hewan",
+    "latitude": "-85.788.026.572.537",
+    "longitude": "1.161.433.544.755",
+    "category": "UPTD"
+  },
+  {
+    "id": 326,
+    "name": "UPTD RUSUNAWA",
+    "latitude": "-860.194.172.918",
+    "longitude": "11.615.247.264.504",
+    "category": "UPTD"
+  },
+  {
+    "id": 327,
+    "name": "UPTD WILAYAH CAKRANEGARA DAN SANDUBAYA",
+    "latitude": "-8.620.704.099.239",
+    "longitude": "11.608.974.181.116",
+    "category": "UPTD"
+  },
+  {
+    "id": 328,
+    "name": "UPTD-PPKB Kecamatan Cakranegara",
+    "latitude": "-85.881.445.834.769",
+    "longitude": "11.613.689.571.619",
+    "category": "UPTD"
+  },
+  {
+    "id": 329,
+    "name": "UPTD-PPKB Kecamatan Selaparang",
+    "latitude": "-85.741.944.326.989",
+    "longitude": "11.611.789.863.557",
+    "category": "UPTD"
+  }
+]

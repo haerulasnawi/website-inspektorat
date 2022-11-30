@@ -16,20 +16,10 @@
 	import markerSMP from '../lib/assets/SMP.png';
 	import setda from '$lib/assets/setda.png';
 	import Componentanimate from '../lib/componentanimate.svelte';
+	import Cordinatesdata from "../lib/api/cordinates/cordinateData.json"
+	// console.log(Cordinatesdata)
 	import { onMount } from 'svelte';
 	let selected;
-	let selectObrik = [
-		{ value: '0', text: ['Inspektorat', -8.6201050994578, 116.07996415347, 1, setda] },
-		{ value: '1', text: ['Sekretariat Daerah', -8.5829887995408, 116.10806230456, 2, setda] },
-		{ value: '2', text: ['Dinas PUPR', -8.577670498, 116.1038016, 3, setda] },
-		{ value: '3', text: ['Dinas Perhubungan', -8.5662436221045, 116.13495279104, 4, setda] },
-		{ value: '4', text: ['Dinas Pendidikan', -8.5855842707727,116.08887780458, 5, setda] },
-		{ value: '5', text: ['Dinas Kependudukan dan Pencatatan Sipi', -8.6202141592562,116.0898745805, 6, setda] },
-		{ value: '6', text: ['Dinas Pertanian', -8.5801609124856,116.12141165882, 7, setda] },
-		{ value: '7', text: ['Dinas Pengendalian Penduduk dan Keluarga Berencana', -8.6201163700767, 116.07960809022, 8, setda] },
-		{ value: '8', text: ['Badan Keuangan Daerah', -8.5820774464466, 116.10873419791, 9, setda] },
-		{ value: '9', text: ['Dinas Perumahan Dan Kawasan Permukiman', -8.5931965339924, 116.15219168365, 10, setda] },
-	];
 	const center = { lat: -8.6201050994578, lng: 116.079964153476 };
 
 	let mapElement;
@@ -39,16 +29,17 @@
 			center: center
 		});
 
-		for (let i = 0; i < selectObrik.length; i++) {
-			const beach = selectObrik[i];
+		for (let i = 1; i < Cordinatesdata.length+1; i++) {
+			const beach = Cordinatesdata[i];
+			// console.log(beach)
 
 			new google.maps.Marker({
-				position: { lat: beach.text[1], lng: beach.text[2] },
+				position: { lat: beach.latitude, lng: beach.longitude },
 				map,
-				icon: beach.text[4],
+				icon: setda,
 				// shape: shape,
-				title: beach.text[0],
-				zIndex: beach.text[3]
+				title: beach.nama,
+				zIndex: beach.id
 			});
 		}
 	});
@@ -56,18 +47,18 @@
 		// console.log(selected);
 		const map = new google.maps.Map(mapElement, {
 			zoom: 18,
-			center: { lat: selectObrik[selected].text[1], lng: selectObrik[selected].text[2] }
+			center: { lat: Cordinatesdata[selected].latitude, lng: Cordinatesdata[selected].longitude }
 		});
-		for (let i = 0; i < selectObrik.length; i++) {
-			const beach = selectObrik[i];
+		for (let i = 0; i < Cordinatesdata.length; i++) {
+			const beach = Cordinatesdata[i];
 
 			new google.maps.Marker({
-				position: { lat: beach.text[1], lng: beach.text[2] },
+				position: { lat: beach.latitude, lng: beach.longitude },
 				map,
-				icon: beach.text[4],
+				icon: setda,
 				// shape: shape,
-				title: beach.text[0],
-				zIndex: beach.text[3]
+				title: beach.nama,
+				zIndex: beach.id
 			});
 		}
 	}
@@ -95,8 +86,8 @@
 					bind:value={selected}
 					on:change={changeobrik}
 				>
-					{#each selectObrik as { value,text }}
-						<option {value}>{text[0]}</option>
+					{#each Cordinatesdata as { id,nama }}
+						<option value={id}>{nama}</option>
 					{/each}
 				</select>
 

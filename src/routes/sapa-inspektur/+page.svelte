@@ -28,7 +28,7 @@
 			<CardLayanan title="Layanan" url="/sapa-inspektur/layanan" />
 		</Componentanimate> -->
 		<Componentanimate animate="scale-up-center 1s cubic-bezier(.215,.61,.355,1.000) both">
-			<CardLayanan {CoachingImage} title="Imtak Pengawasan" url="/sapa-inspektur/imtak-pengawasan" penjelasan="Layanan konsultasi Obrik untuk pembinaan penyelenggaraan pemerintahan" />
+			<CardLayanan {CoachingImage} title="Imtak Pengawasan" url="#" penjelasan="Layanan konsultasi Obrik untuk pembinaan penyelenggaraan pemerintahan" />
 		</Componentanimate>
 		<Componentanimate animate="scale-up-center 1s cubic-bezier(.215,.61,.355,1.000) both">
 			<CardLayanan

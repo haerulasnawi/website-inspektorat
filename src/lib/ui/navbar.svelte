@@ -76,10 +76,10 @@
 
 	<div class="flex justify-end md:order-2">
 		<DarkMode {btnClass} />
-		<Button gradient color="greenToBlue" href="/auth/login" size="sm">Log in</Button>
-		<Avatar id="avatar-menu" src="https://placeimg.com/80/80/people" />
+		<!-- <Button gradient color="greenToBlue" href="/auth/login" size="sm">Log in</Button>
+		<Avatar id="avatar-menu" src="https://placeimg.com/80/80/people" /> -->
 		<NavHamburger on:click={toggle} />
-		<Dropdown placement="bottom" triggeredBy="#avatar-menu">
+		<!-- <Dropdown placement="bottom" triggeredBy="#avatar-menu">
 			<DropdownHeader>
 				<span class="block text-sm"> Bonnie Green </span>
 				<span class="block truncate text-sm font-medium"> name@flowbite.com </span>
@@ -89,7 +89,7 @@
 			<DropdownItem>Earnings</DropdownItem>
 			<DropdownDivider />
 			<DropdownItem>Sign out</DropdownItem>
-		</Dropdown>
+		</Dropdown> -->
 	</div>
 
 	<NavUl {hidden}>

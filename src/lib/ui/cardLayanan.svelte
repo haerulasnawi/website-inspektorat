@@ -1,7 +1,7 @@
 <script>
 	export let title;
 	export let url;
-	// export let CoachingImage
+	export let CoachingImage
 	export let penjelasan
 </script>
 
@@ -45,10 +45,11 @@
 			/></svg
 		>
 </a>
-	<!-- <img
+	<!-- svelte-ignore a11y-img-redundant-alt -->
+	<img
 		class="max-w-full h-auto"
 		src="{CoachingImage}"
 		alt="image description"
-	/> -->
+	/>
 	
 </div>

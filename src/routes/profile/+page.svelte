@@ -2,9 +2,14 @@
 	import { Heading, P, Span, Hr, Img, A, Button } from 'flowbite-svelte';
 	import FormasiList from '../../lib/ui/formasiList.svelte';
 	import logoKota from '$lib/assets/kota.png';
-	import Inspektur from '$lib/assets/nelly.png'
+	import Inspektur from '$lib/assets/nelly.png';
 	import Saos from 'saos';
 	import Componentanimate from '../../lib/componentanimate.svelte';
+	import CordinateData from '../../lib/api/cordinates/cordinateData.json';
+	let cordinates = CordinateData;
+	cordinates.forEach((element) => {
+		console.log(element);
+	});
 </script>
 
 <svelte:head>
@@ -22,14 +27,16 @@
 			<div class="flex justify-center">
 				<div class="flex flex-col text-center">
 					<Img
-						src="{Inspektur}"
+						src={Inspektur}
 						alt="sample 1"
 						size="max-w-lg"
 						class="rounded-lg w-3/4"
 						imgClass=""
 					/>
-					<Heading tag="h6" align="center" class="mt-5">B. Nelly Kusumawati M., M.Ak., CGCAE</Heading>
-					<P align="center" space="wider" >Inspektur Kota Mataram</P>
+					<Heading tag="h6" align="center" class="mt-5"
+						>B. Nelly Kusumawati M., M.Ak., CGCAE</Heading
+					>
+					<P align="center" space="wider">Inspektur Kota Mataram</P>
 				</div>
 			</div>
 		</div>
