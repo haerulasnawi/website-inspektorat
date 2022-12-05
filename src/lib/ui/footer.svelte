@@ -54,7 +54,7 @@
 								</FooterIcon>
 								<p>(0370) 645092</p>
 							</FooterLinkIcon>
-							<FooterLinkIcon align="center" href="https://wa.me/081913110303" target="blank">
+							<FooterLinkIcon align="center" href="https://wa.me/081913110303">
 								<FooterIcon>
 									<svg class="w-4 h-5 mr-2" viewBox="0 0 448 512" fill="currentColor"
 										><path
@@ -67,7 +67,6 @@
 							<FooterLinkIcon
 								align="center"
 								href="mailto:inspektorat@mataramkota.go.id"
-								target="blank"
 							>
 								<FooterIcon>
 									<svg class="w-4 h-4 mr-2" viewBox="0 0 512 512" fill="currentColor"

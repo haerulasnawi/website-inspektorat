@@ -16,20 +16,21 @@
 	import markerSMP from '../lib/assets/SMP.png';
 	import setda from '$lib/assets/setda.png';
 	import Componentanimate from '../lib/componentanimate.svelte';
-	import Cordinatesdata from "../lib/api/cordinates/cordinateData.json"
-	// console.log(Cordinatesdata)
+	import Cordinatesdata from '../lib/api/cordinates/cordinateData.json';
 	import { onMount } from 'svelte';
+	import { activeurl } from '$lib/store';
 	let selected;
 	const center = { lat: -8.6201050994578, lng: 116.079964153476 };
 
 	let mapElement;
 	onMount(async () => {
+		activeurl.update(value=>value="Beranda")
 		const map = new google.maps.Map(mapElement, {
 			zoom: 13,
 			center: center
 		});
 
-		for (let i = 1; i < Cordinatesdata.length+1; i++) {
+		for (let i = 0; i < Cordinatesdata.length ; i++) {
 			const beach = Cordinatesdata[i];
 			// console.log(beach)
 
@@ -72,26 +73,25 @@
 	<div
 		class="absolute z-10  top-20 md:top-10 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-60 md:w-96"
 	>
-	<Componentanimate animate="slide-bottom 1s cubic-bezier(.25,.46,.45,.94) both">
-	<div class="relative grid justify-items-center">
+		<Componentanimate animate="slide-bottom 1s cubic-bezier(.25,.46,.45,.94) both">
+			<div class="relative grid justify-items-center">
+				<Button gradient color="greenToBlue"><Chevron>Cari Obyek Pemeriksaan</Chevron></Button>
+				<Dropdown class="overflow-y-auto px-3 pb-3 text-sm">
+					<div slot="header" class="p-3">
+						<Search size="md" />
+					</div>
+					<select
+						id="countries"
+						class="mt-2 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+						bind:value={selected}
+						on:change={changeobrik}
+					>
+						{#each Cordinatesdata as { id, nama }}
+							<option value={id}>{nama}</option>
+						{/each}
+					</select>
 
-			<Button gradient color="greenToBlue"><Chevron>Cari Obyek Pemeriksaan</Chevron></Button>
-			<Dropdown class="overflow-y-auto px-3 pb-3 text-sm">
-				<div slot="header" class="p-3">
-					<Search size="md" />
-				</div>
-				<select
-					id="countries"
-					class="mt-2 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
-					bind:value={selected}
-					on:change={changeobrik}
-				>
-					{#each Cordinatesdata as { id,nama }}
-						<option value={id}>{nama}</option>
-					{/each}
-				</select>
-
-				<!-- <button
+					<!-- <button
 					type="button"
 					class="mt-2 w-fulltext-white bg-gradient-to-br from-green-400 to-blue-600 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 inline-flex text-slate-100"
 				>
@@ -109,8 +109,8 @@
 						/></svg
 					>
 				</button> -->
-			</Dropdown>
-		</div>
-	</Componentanimate>
+				</Dropdown>
+			</div>
+		</Componentanimate>
 	</div>
 </div>
